@@ -14,7 +14,7 @@ This folder holds the Python code connected to this 5 part article:
 
 With this code, we are going to learn:
 
-* How to deploy a model using Flask APIs?
+* How to deploy a model using Flask APIs on Heroku?
 
 The data comes from The Wisconsin Cancer Data-set.
 This data was gathered by the University of Wisconsin Hospitals, Madison and by Dr. William H. Wolberg.
